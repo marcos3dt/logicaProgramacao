@@ -1,0 +1,2 @@
+# logicaProgramacao
+Algorítimo de Somatório 
